@@ -1,2 +1,4 @@
-# HRVideoPlayer
-A custom video player for iOS over AVPlayer - Objective C
+HRVideoPlayer
+=============
+
+A custom video player for iOS using Objective C
